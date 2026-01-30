@@ -7,10 +7,45 @@ width="200" height="95" alt="MISD logo">
 <span color="#21B573">Modular Integrated Sustainable Datacenter</span>
 </a>
 </h1>
+</div>
 
-# MISD Project Chantico
+# 🌞 MISD Project Chantico — Energy‑Aware Cloud‑Native Operator
 
-## Funding
+Chantico is a Kubernetes operator focused on bringing energy intelligence 
+to modern, cloud-native data centers. Built as part of the Modular 
+Integrated Sustainable Datacenters (MISD) project, Chantico provides 
+a fully declarative way to discover, configure, and monitor physical energy 
+measurement devices.
+
+By mapping power consumption across a graph of services and workloads, 
+Chantico enables accurate attribution of energy usage to customer-provided 
+services, simplifying administration and reducing dashboard clutter.
+
+Our mission is to make sustainable cloud operations effortless.
+
+## 🚀 Goals
+
+- Become aware of and configure physical measurement devices
+- Monitor power consumption across PDUs, servers and cluster workloads
+- Attribute energy usage to customers and tenants
+- Integrate with other workload orchestrators and domain-aware controllers
+
+In the end, we support sustainable operations via workload migration to 
+green energy sources.
+
+## 🤝 Becoming a Committer
+
+We welcome contributions that align with our scope and vision of the 
+Chantico project. Have a look at our [contribution 
+guidance](https://github.com/TNO-MISD/.github/blob/main/CONTRIBUTING.md).
+
+## 🧭 Code of Conduct
+
+Please consider the guidelines in the [Code of 
+Conduct](https://github.com/TNO-MISD/.github/blob/main/CODE_OF_CONDUCT.md) 
+when participating in our shared environment.
+
+## 🏛️ Funding
 
 <div align="center">
 <img 
