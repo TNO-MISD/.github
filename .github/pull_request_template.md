@@ -3,6 +3,10 @@
 - **Title:** title
 - **Description**: description
 
+In order to support semantic releases, please use [conventional 
+commits](https://www.conventionalcommits.org/en/v1.0.0/) with any case you 
+prefer for the type in the commit comment title, such as "fix" or "Feat".
+
 ### How to test?
 
 Explain how to test.
