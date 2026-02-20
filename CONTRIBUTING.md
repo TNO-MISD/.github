@@ -1,4 +1,9 @@
-# Contributing to MISD as a NeoNephos Open Source Project
+# Contributing to MISD as an Open Source Project
+
+Thank you for taking an interest in the MISD open source project. We welcome 
+you to become involved in this project, whether it is by trying it out, using 
+it in your environment or also thinking along with our team to help improve the 
+data center management ecosystem.
 
 ## General Remarks
 
@@ -6,10 +11,33 @@ Initially we will not seek external contributions via Pull Requests. At this
 stage in the project it is considered too early to accept external work, given
 pending design changes and major technology choices.
 
+### Issues and Planning
+
+We welcome GitHub issues to track bugs and enhancement requests that are in 
+line with the scope and vision of the project. Please provide as much context 
+as possible when you open an issue. The information you provide must be 
+comprehensive enough to understand, reproduce the behavior and find related 
+reports of that issue for the assignee. Therefore, contributors may use but 
+aren't restricted to the issue template provided by the MISD maintainers.
+
+Releases are planned to follow a continuous integration and delivery (CI/CD) 
+process with small, frequent releases using semantic versioning and clear 
+change logs (we aim to use [Conventional Commit 
+messages](https://www.conventionalcommits.org/en/v1.0.0/) when relevant).
+
+GitHub Discussions may be used for broader topics, such as support and sharing 
+of setups.
+
+### Future contributions
+
 We will regularly reconsider opening for external contributions, at which point
 you are welcome to contribute content (code, documentation etc.) to this open
-source project.
+source project. This contribution guidance will then indicate some important 
+things to know before putting effort into your contribution, such as license 
+and other agreement terms, our [Code of Conduct](CODE_OF_CONDUCT.md) and 
+generative AI guidance.
 
+<!--
 There are some important things to know:
 
 1. You must **comply to the license of this project**, **accept the Developer
@@ -60,18 +88,4 @@ Foundation](https://developercertificate.org/).
      effort for reviewing, testing, and clarification, this may take a while.
 7. Once the change has been approved and merged, you will be informed.
 8. Celebrate!
-
-## Issues and Planning
-
-We welcome GitHub issues to track bugs and enhancement requests. Please provide 
-as much context as possible when you open an issue. The information you provide 
-must be comprehensive enough to understand, reproduce the behavior and find 
-related reports of that issue for the assignee. Therefore, contributors may use 
-but aren't restricted to the issue template provided by the MISD maintainers.
-
-Releases are planned to follow a continuous integration and delivery (CI/CD) 
-process with small, frequent releases using semantic versioning and clean 
-change logs.
-
-GitHub Discussions may be used for broader topics, such as support and sharing 
-of setups.
+-->
