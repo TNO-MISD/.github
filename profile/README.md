@@ -52,7 +52,8 @@ when participating in our shared environment.
 ## 🏛️ Funding
 
 <div align="center">
-<img src="https://english.rvo.nl/assets/logos/logo-english.svg" width="305" 
+<img 
+src="https://misdproject.eu/wp-content/uploads/2025/07/RVO-logo-300x115.png"
 height="124">
 <img 
 src="https://misdproject.eu/wp-content/uploads/2025/07/ORA-Logo-quer-Web-300x124.jpg" 
