@@ -12,12 +12,7 @@ width="200" height="95" alt="MISD logo">
 # MISD Project
 
 The Chantico project of MISD has been renamed to another organization name; 
-please visit the new organization for more information:
-
-<div align="center">
-<h2>
+please visit the new organization for more information: 
 <a href="https://github.com/chantico-project">
 <span color="#21B573">Chantico Project</span>
 </a>
-</h2>
-</div>
